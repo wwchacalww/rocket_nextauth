@@ -11,9 +11,9 @@ Todo o conteúdo desse repositório é fruto do curso Ignite Trilha React - Chap
 ### Autenticação com JWT
 
 - [X] Contexto de Autenticação
-- [ ] Configurando cliente do axios
-- [ ] Salvando dados do usuário
-- [ ] Salvando tokens nos cookies
+- [X] Configurando cliente do axios
+- [X] Salvando dados do usuário
+- [X] Salvando tokens nos cookies
 - [ ] Recuperando estado da autenticação
 - [ ] Realizando refresh do token
 - [ ] Fila de requisições no Axios
